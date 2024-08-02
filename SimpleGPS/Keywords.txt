@@ -1,0 +1,6 @@
+SimpleGPS	KEYWORD1
+begin		KEYWORD2
+update		KEYWORD2
+getTime		KEYWORD2
+getLatitude	KEYWORD2
+getLongitude	KEYWORD2
